@@ -22,14 +22,14 @@
     "styled-components": "^6.1.1"
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "^7.6.4",
-    "@storybook/addon-interactions": "^7.6.4",
-    "@storybook/addon-links": "^7.6.4",
+    "@storybook/addon-essentials": "^7.6.6",
+    "@storybook/addon-interactions": "^7.6.6",
+    "@storybook/addon-links": "^7.6.6",
     "@storybook/addon-onboarding": "^1.0.10",
-    "@storybook/blocks": "^7.6.4",
-    "@storybook/nextjs": "^7.6.4",
-    "@storybook/react": "^7.6.4",
-    "@storybook/test": "^7.6.4",
+    "@storybook/blocks": "^7.6.6",
+    "@storybook/nextjs": "^7.6.6",
+    "@storybook/react": "^7.6.6",
+    "@storybook/test": "^7.6.6",
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^14.5.1",
@@ -51,7 +51,7 @@
     "lint-staged": "^15.0.2",
     "plop": "^4.0.0",
     "prettier": "3.0.3",
-    "storybook": "^7.6.4",
+    "storybook": "^7.6.6",
     "typescript": "^5"
   }
 }
